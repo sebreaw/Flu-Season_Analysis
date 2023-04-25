@@ -9,4 +9,4 @@ adequately treat these extra patients. The medical staffing agency provides this
 staff. The objective of this task is to determine, when and where to allocate staff 
 
 # Data 
-Tableau Storyboard, Excel Spreadsheet containing integrated Data Sets
+Excel Spreadsheet containing integrated data sets
