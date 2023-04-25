@@ -8,5 +8,5 @@ complications and end up in the hospital. Hospitals and clinics need additional 
 adequately treat these extra patients. The medical staffing agency provides this temporary
 staff. The objective of this task is to determine, when and where to allocate staff 
 
-#Data 
+# Data 
 Tableau Storyboard, Excel Spreadsheet containing integrated Data Sets
